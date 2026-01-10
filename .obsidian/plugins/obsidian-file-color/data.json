@@ -1,0 +1,45 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "QJ7cwg6J0E-JyZOFjUb-B",
+      "name": "Red",
+      "value": "#a94242"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "التفكير السليم/11- الدرس الحادي عشر/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/10-الدرس العاشر/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/9- الدرس التاسع/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/8-الدرس الثامن/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/12- الدرس الثاني عشر/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/14/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/13/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/16/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    }
+  ]
+}
