@@ -1,6 +1,6 @@
 {
   "cascadeColors": false,
-  "colorBackground": false,
+  "colorBackground": true,
   "palette": [
     {
       "id": "QJ7cwg6J0E-JyZOFjUb-B",
@@ -39,6 +39,10 @@
     },
     {
       "path": "التفكير السليم/16/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/17/الملخص.md",
       "color": "QJ7cwg6J0E-JyZOFjUb-B"
     }
   ]
