@@ -5,7 +5,7 @@
     {
       "id": "QJ7cwg6J0E-JyZOFjUb-B",
       "name": "Red",
-      "value": "#a94242"
+      "value": "#42a943"
     }
   ],
   "fileColors": [
@@ -43,6 +43,30 @@
     },
     {
       "path": "التفكير السليم/17/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/18/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/19/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/20/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/15/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/21 - 1/الملخص.md",
+      "color": "QJ7cwg6J0E-JyZOFjUb-B"
+    },
+    {
+      "path": "التفكير السليم/21 - 2/الملخص.md",
       "color": "QJ7cwg6J0E-JyZOFjUb-B"
     }
   ]
